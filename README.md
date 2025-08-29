@@ -10,6 +10,7 @@ Technology	Purpose
 🧩 shadcn-ui	Prebuilt UI components
 🌬️ Tailwind CSS	Utility-first CSS framework
 📁 File Structure
+
 File/Folder	Description
 index.html	HTML entry point
 vite.config.ts	Vite configuration
